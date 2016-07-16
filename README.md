@@ -2,7 +2,8 @@
 
 ## 官方资料
 
-* [CN home](https://github.com/d3/d3/wiki/CN-Home)
+* [d3js](https://d3js.org/)
+* [wiki](https://github.com/d3/d3/wiki/CN-Home)
 
 ## 其他资料
 
